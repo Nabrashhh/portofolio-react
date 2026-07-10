@@ -7,7 +7,7 @@
 
 Ini adalah repositori kode sumber untuk situs web portofolio pribadi saya. Situs ini dirancang untuk menampilkan keahlian, proyek, dan latar belakang profesional saya sebagai seorang **IT Support & Web Developer**.
 
-🌐 **Live Demo:** [https://nabrashhh.github.io/portofolio-react/](https://nabrashhh.github.io/portofolio-react/)
+🌐 **Live Demo:** [Kunjungi Aplikasi](https://nabrashhh.github.io/portofolio-react/)
 
 ---
 
